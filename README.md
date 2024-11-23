@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RMadhumitha30
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning python
 - 📫 How to reach me rmadhumitha9786@gmail.com
 
 <!---
