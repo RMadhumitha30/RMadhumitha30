@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RMadhumitha30
-- 👀 I’m interested in frontend development
+- 👋 Hi, I’m Madhumitha R
+- 👀 I’m interested in Java fullstack development
 - 📫 How to reach me rmadhumitha9786@gmail.com
 
 <!---
